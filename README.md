@@ -8,3 +8,4 @@ The WiserMod installers and files
 
 I'm not responsible if you get banned from servers or worlds,
 use this program at your own risk.
+
