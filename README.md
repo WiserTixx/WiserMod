@@ -2,6 +2,9 @@
 The WiserMod installers and files
 
 
+# Discord
+https://discord.gg/zafgtnf4qV
+
 
 
 # Warning
