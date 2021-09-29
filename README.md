@@ -3,7 +3,7 @@ The WiserMod installers and files
 
 
 # Discord
-https://discord.gg/zafgtnf4qV
+[invite](https://discord.gg/zafgtnf4qV)
 
 
 
