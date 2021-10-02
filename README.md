@@ -1,6 +1,7 @@
 # WiserMod
 The WiserMod installers and files
 
+you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases/download/WiserMod/wisermod.launcher.setup.exe)
 
 # Discord
 [invite](https://discord.gg/zafgtnf4qV)
