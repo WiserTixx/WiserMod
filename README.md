@@ -18,5 +18,6 @@ use my programs at your own risk.
 
 # bugs
 
-On the issues tab here above you can sumbit errors, bugs, glitches
-if the issues are really personal you can contact the devs on discord
+On the issues tab here above you can sumbit errors, bugs, glitches regarding the software
+
+if the issues are really on your end you can contact the devs on discord
