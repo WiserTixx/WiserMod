@@ -6,6 +6,7 @@ you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases
 # Discord
 [invite](https://discord.gg/zafgtnf4qV)
 in the discord you can chat to other people and the developer(s) 
+
 you can also share gameplay and problem about the software
 
 
