@@ -29,4 +29,4 @@ if the issues are really on your end you can contact the devs on discord
 
 # Credits
 
-- ANSHUL PANDA#6969 (748852037545885706)  -  assets maker
+- Anshul (DC ID: 748852037545885706)  -  assets maker
