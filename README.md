@@ -8,7 +8,7 @@ you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases
 
 in the discord you can chat to other people and the developer(s) 
 
-you can also share gameplay and problems about the software (for problems first check [this](https://github.com/WiserTixx/WiserMod/blob/main/README.md#bugs))
+you can also share gameplay about the software
 
 
 # Warning
