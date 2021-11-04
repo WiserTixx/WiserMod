@@ -1,7 +1,12 @@
 # WiserMod
-The WiserMod installers and files
+
+WiserMod is a mcbe client/launcher developed by WiserTixx with the WiserMod team
+We have a lot of features comming so stay tuned!
+
+# Download
 
 you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases/download/1.0.0/WiserMod.installer.exe)
+The setup is all you need because the launcher will autoupdate
 
 # Discord
 [invite](https://discord.gg/zafgtnf4qV)
@@ -29,4 +34,4 @@ if the issues are really on your end you can contact the devs on discord
 
 # Credits
 
-- Anshul (DC ID: 748852037545885706)  -  assets maker
+- Anshul -  assets maker
