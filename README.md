@@ -1,6 +1,7 @@
 # WiserMod
 
-WiserMod is a mcbe client/launcher developed by WiserTixx with the WiserMod team\n
+WiserMod is a mcbe client/launcher developed by WiserTixx with the WiserMod team
+
 We have a lot of features comming so stay tuned!
 
 # Download
