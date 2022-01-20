@@ -19,8 +19,8 @@ you can also share gameplay about the software
 
 # Warning
 
-I'm not responsible if you get banned from servers or worlds,
-use my programs at your own risk.
+I'm not responsible for anything done with my software,
+use it at your own risk.
 
 
 
