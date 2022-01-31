@@ -6,7 +6,7 @@ We have a lot of features comming so stay tuned!
 
 # Download
 
-you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases/download/1.0.0/WiserMod.installer.exe)
+you can download the setup [here](https://github.com/WiserTixx/WiserMod/releases/download/v1.1.1/WiserMod.installer.exe)
 The setup is all you need because the launcher will autoupdate
 
 # Discord
