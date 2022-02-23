@@ -36,4 +36,4 @@ if the issues are really on your end you can contact the devs on discord
 # Credits
 
 - Tim_69_ - Developer
-- Anshul -  assets maker
+- Anshul -  Developer
