@@ -37,3 +37,6 @@ if the issues are really on your end you can contact the devs on discord
 
 - Tim_69_ - Developer
 - Anshul -  Developer
+
+----- Extra Credits ----
+Floppy - Major Design Feedback
