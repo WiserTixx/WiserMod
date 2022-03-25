@@ -39,4 +39,5 @@ if the issues are really on your end you can contact the devs on discord
 - Anshul -  Developer
 
 ----- Extra Credits ----
+
 Floppy - Major Design Feedback
