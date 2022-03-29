@@ -35,9 +35,12 @@ if the issues are really on your end you can contact the devs on discord
 
 # Credits
 
-- Tim_69_ - Developer
-- Anshul -  Developer
+- [Tim_69_](https://github.com/Tim69420) - Developer
+- [oAnshul](https://github.com/AnshulMaster) -  Developer
+- [Melvin](https://github.com/Melvin1663)
 
 ----- Extra Credits ----
 
-Floppy - Major Design Feedback
+[Floppy](https://github.com/FloppyDolphin57) - Major Design Feedback
+
+[Vinnie](https://github.com/VinnieTheFox) - Logo 
