@@ -37,7 +37,7 @@ if the issues are really on your end you can contact the devs on discord
 
 - [Tim_69_](https://github.com/Tim69420) - Developer
 - [oAnshul](https://github.com/AnshulMaster) -  Developer
-- [Melvin](https://github.com/Melvin1663)
+- [Melvin](https://github.com/Melvin1663) - Developer 
 
 ----- Extra Credits ----
 
